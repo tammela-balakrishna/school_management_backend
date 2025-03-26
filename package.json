@@ -1,10 +1,9 @@
 {
   "name": "school_management",
   "version": "1.0.0",
-  "description": "A simple school management system",
-  "main": "server.js",
+  "main": "index.js",  // Ensure this matches your actual entry file
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.3",
