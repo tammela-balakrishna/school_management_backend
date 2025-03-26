@@ -1,7 +1,7 @@
 {
   "name": "school_management",
   "version": "1.0.0",
-  "main": "index.js",  // Ensure this matches your actual entry file
+  "main": "index.js", 
   "scripts": {
     "start": "node index.js"
   },
